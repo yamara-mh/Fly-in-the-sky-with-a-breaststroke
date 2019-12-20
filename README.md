@@ -1,6 +1,4 @@
-# VRゲーム : 平泳ぎで空を飛ぶ
-<br>
-VR game : Fly in the sky with a breaststroke
+# VR game : 平泳ぎで空を飛ぶ (Fly in the sky with a breaststroke)
 平泳ぎで空を飛べる小規模なVRゲームです。SteamVRで遊べます。
 <br>
 A small VR game where you can fly in the sky with a breaststroke. You can play with SteamVR.
