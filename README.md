@@ -21,4 +21,4 @@ Download URL : https://drive.google.com/open?id=1UGh4hnmQwVEhZekGayWERuUkUBJuBpU
 [APACHE LICENSE, VERSION 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Author
-[tcnksm](https://github.com/tcnksm)
+[0105takuyayamada](https://github.com/0105takuyayamada)
