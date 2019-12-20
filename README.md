@@ -17,7 +17,7 @@ You can fly around the island of 16km in diameter at 100km/h. Increase the islan
 <br>
 [![平泳ぎで空を飛ぶ](https://i.ytimg.com/vi/0Uim-85tqg8/hqdefault.jpg "平泳ぎで空を飛ぶ Youtubeリンク")](https://www.youtube.com/watch?v=0Uim-85tqg8&t=6s)
 
-## Install
+## Download
 Download URL : https://drive.google.com/open?id=1UGh4hnmQwVEhZekGayWERuUkUBJuBpUs
 
 ## Background
