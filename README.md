@@ -10,7 +10,7 @@ A small VR game where you can fly in the sky with a breaststroke. You can play w
 <br><br>
 You can fly around the island of 16km in diameter at 100km/h. Increase the islands you can explore by taking acceleration items and defeating enemies. Aim at how much you can increase the maximum speed in time.
 <br>
-* Removed paid assets. you can see only the source code I wrote.
+(Removed paid assets. you can see only the source code I wrote.)
 
 ## Demo
 ↓Youtube Link
