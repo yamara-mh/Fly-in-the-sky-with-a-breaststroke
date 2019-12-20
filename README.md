@@ -27,8 +27,5 @@ Download URL : https://drive.google.com/open?id=1UGh4hnmQwVEhZekGayWERuUkUBJuBpU
  This game was developed to be played in 5 minutes for the VR experience exhibited by club activities. The reason for making this game is to fulfill the wish that everyone wants to fly freely in the sky. I also like the feeling of going forward with swimming breaststroke, so I also incorporated it.
 After making a prototype of this game and playing, I thought, “I can make it more interesting by preparing objectives and restrictions”. Acceleration items were set up here and there in order to create motivation for visit the islands. In addition, an acceleration ring was installed between the islands to allow the player to move at the desired speed. As a restriction, a wall was created between the islands, and the range of move expanded when the enemy was destroyed. When defeating enemies, I thought it would be nice to do a lot of damage with a well-timed punch, so I implemented a punch attack.
 
-## Licence
-[APACHE LICENSE, VERSION 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
 ## Author
 [0105takuyayamada](https://github.com/0105takuyayamada)
